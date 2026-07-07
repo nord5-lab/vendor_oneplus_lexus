@@ -14,7 +14,7 @@ $(call add-radio-file-sha1-checked,radio/cpucp.img,82973fb0b7720abfad3b1a2c7543e
 $(call add-radio-file-sha1-checked,radio/cpucp_dtb.img,f088200628514279e0407f5b275507e0b0d104fc)
 $(call add-radio-file-sha1-checked,radio/devcfg.img,02bf17476be8d3f268341c483103f957b8c3f427)
 $(call add-radio-file-sha1-checked,radio/dsp.img,7e81146e07bb4120616a084cc932dc4836420d29)
-$(call add-radio-file-sha1-checked,radio/engineering_cdt.img,c003f773a9bfb93bcb9ebbc01ec8570de1aeb737)
+$(call add-radio-file-sha1-checked,radio/engineering_cdt.img,1e36c15f1ea8f03c8b466180288b8f59bf9e1e66)
 $(call add-radio-file-sha1-checked,radio/featenabler.img,07fc9d93ee8f161be231180a194193ab86758df8)
 $(call add-radio-file-sha1-checked,radio/hyp.img,00bebe833f4a737116907490342643bf156646c1)
 $(call add-radio-file-sha1-checked,radio/imagefv.img,ee695656be89f4104d13b7b30c399c2a5030266c)
